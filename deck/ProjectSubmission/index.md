@@ -1,0 +1,99 @@
+---
+title       : Dev Data Products Submission
+subtitle    : Newspaper Consumption in the US from 1972 to 2012.
+author      : 
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [quiz]            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## How often do you buy a newspaper?
+
+General Social Surveys have been conducted each year since 1972
+over a wide range of topics, this application looks at newspaper consumption 
+by respondants age, number of years in education and the year the survey was undertaken.
+It is based on answers to 
+the question - 
+
+How often do you buy a newspaper?
+The possible responses are; 
+
+1. Everyday
+
+2. Few Times A Week
+
+3. Once A Week
+
+4. Less Than Once Wk
+
+5. Never
+
+
+
+
+--- &radio
+## Question 1
+
+
+Would you think that the number of people who answered "Never"
+to How often do you buy a newspaper?
+over the years of the study
+
+1. Increased by approx 20% 
+
+2. _Decreased by approx 10%_ 
+
+3. Stayed broadly the same. 
+
+4. Increased by over 50%.
+
+*** .hint
+It increased.
+
+*** .explanation
+This is an explanation
+
+
+
+--- &radio
+## Question 2
+
+
+Would you think that the number of people who answered "Less Than Once Wk"
+to How often do you buy a newspaper? increased / decreased 
+with regard to the subjects number the number of years in education.
+
+
+1. Increased by approx 20% 
+
+2. _Decreased by approx 10%_
+
+3. Stayed broadly the same.
+
+4. Increased by over 50%.
+
+*** .hint
+It increased.
+
+*** .explanation
+This is an explanation
+
+
+--- .class #id 
+
+## Conslusions
+
+Massive decline in regular readership over time.
+
+Tendency for newspaper consumption to increase with age and number of years education  of the survey respondant.
+
+--- .class #id 
+
+
+
+
+
